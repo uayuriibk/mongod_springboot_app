@@ -7,7 +7,6 @@ import lombok.Setter;
 import org.springframework.data.mongodb.core.index.TextIndexed;
 
 @Getter
-@Setter
 @AllArgsConstructor
 public class ItemReview {
 
