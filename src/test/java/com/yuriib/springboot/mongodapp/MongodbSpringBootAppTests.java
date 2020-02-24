@@ -1,4 +1,4 @@
-package com.yuriib.springboot.mongod_springboot_app;
+package com.yuriib.springboot.mongodapp;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

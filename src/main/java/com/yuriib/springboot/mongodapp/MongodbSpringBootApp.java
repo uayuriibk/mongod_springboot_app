@@ -1,4 +1,4 @@
-package com.yuriib.springboot.mongod_springboot_app;
+package com.yuriib.springboot.mongodapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
